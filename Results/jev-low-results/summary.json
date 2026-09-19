@@ -1,0 +1,15 @@
+﻿{
+    "ground_truth_cases":  1000,
+    "matched_cases":  150,
+    "detection_coverage":  0.15,
+    "positives_in_ground_truth":  50,
+    "negatives_in_ground_truth":  950,
+    "brier_score":  0.045599,
+    "expected_calibration_error":  0.172867,
+    "sources":  [
+                    "jev"
+                ],
+    "latency_samples":  0,
+    "p50_latency_ms":  null,
+    "p95_latency_ms":  null
+}

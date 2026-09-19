@@ -1,0 +1,15 @@
+﻿{
+    "ground_truth_cases":  1000,
+    "matched_cases":  300,
+    "detection_coverage":  0.3,
+    "positives_in_ground_truth":  200,
+    "negatives_in_ground_truth":  800,
+    "brier_score":  0.0959,
+    "expected_calibration_error":  0.283333,
+    "sources":  [
+                    "heuristic"
+                ],
+    "latency_samples":  0,
+    "p50_latency_ms":  null,
+    "p95_latency_ms":  null
+}

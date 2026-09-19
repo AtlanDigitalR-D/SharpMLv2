@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+sharpml2-findings*.jsonl
+*.log
+.env
