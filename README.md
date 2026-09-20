@@ -2,6 +2,8 @@
 
 SharpML 2.0 is a defensive rewrite of the original SharpML proof of concept. The original project mines readable file shares, passes collected text through a bundled ML model, and can then attempt Active Directory authentication with candidate username/password pairs. This version deliberately removes the authentication stage and turns the project into a read-only secret-exposure triage scanner.
 
+Read the companion blog post (here)[https://www.atlan.digital/lab/sharpmlv2-jev-ai-soc]
+
 ## What changed
 
 The pipeline is now:
