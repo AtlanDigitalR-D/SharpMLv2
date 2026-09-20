@@ -149,4 +149,10 @@ Current deterministic detectors cover common password/passphrase assignments, AP
 
 Supported text-oriented extensions include common shell/script languages, config formats, `.env`, JSON/YAML/XML, Terraform, SQL and source files. Files larger than the configured limit are skipped.
 
+Author: 
+Tom Kallo
+
+Original SharpML: [https://github.com/Atlan-Digital/SharpML]
+Original ShapML blogpost: [https://www.atlan.digital/lab/machine-learning-for-red-teams]
+
 
